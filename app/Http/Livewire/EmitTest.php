@@ -19,6 +19,6 @@ class EmitTest extends Component
 
     public function changeVariable()
     {
-        $this->variable = 'y';
+        $this->variable = 'successfully emitted';
     }
 }
